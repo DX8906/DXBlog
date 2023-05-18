@@ -1,0 +1,6 @@
+com\dx\config\SecurityConfig.class
+com\dx\controller\UploadController.class
+com\dx\controller\CommentController.class
+com\dx\controller\LinkController.class
+com\dx\filter\JwtAuthenticationTokenFilter.class
+com\dx\controller\CategoryController.class
